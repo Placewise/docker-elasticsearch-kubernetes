@@ -1,4 +1,4 @@
-FROM quay.io/boostcom/docker-elasticsearch:6.8.0-1
+FROM quay.io/boostcom/docker-elasticsearch:6.8.21
 
 LABEL maintainer="jakub.kruczek@boostcom.no"
 
